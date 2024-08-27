@@ -40,7 +40,7 @@ int main() {
 // Display the main menu
 void displayMenu() {
     cout << "\nMAIN MENU\n";
-    cout << "-----------------------\n";
+    cout << "----------------------\n";
     cout << "1. Display List of Files\n";
     cout << "2. Create New Directory\n";
     cout << "3. Change the Working Directory\n";
